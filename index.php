@@ -1,6 +1,6 @@
 <?php
-header("Location: https://splash.leo32345.repl.co");
-die();
+header('Location: https://splash.leo32345.repl.co/');
+exit;
 ?>
 <!DOCTYPE html>
 <html>
